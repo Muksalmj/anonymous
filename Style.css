@@ -1,0 +1,53 @@
+body {
+ background-size: 800px;
+ background-color: #eaeaea;
+}
+
+.container {
+  background-color: white;
+  width: 500px;
+  height: auto;
+  margin: auto;
+}
+
+.header {
+  padding:5px;
+}
+
+.header ul li {
+  display: inline-block;
+}
+
+.header a {
+  color: salmon;
+  text-decoration: none;
+  margin-left: -20px;
+}
+
+.foto1 {
+  height: 105px;
+  background-image: url(foto/fotoprofil.png);
+  background-size: cover;
+  background-position: -5px;
+}
+
+.foto2 {
+  height: 300px;
+  background-size:cover;
+  background-image: url(foto/foto1.jpg);
+  background-position: -10px;
+}
+
+.header  p {
+  color: salmon;
+  height: 50px;
+  margin-top: -18px;
+}
+
+.hr {
+  margin-top: -18px;
+}
+
+
+
+
